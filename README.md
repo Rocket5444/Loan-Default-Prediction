@@ -96,7 +96,7 @@ streamlit run app.py
 ```
 
 ## Web App Usage
-- Visit [Loan Default Predictor](https://h-rishi16-loan-default-prediction-app-uecn3j.streamlit.app)
+- Visit [Loan Default Predictor](https://rocket5444-loan-default-prediction-app-kwaif0.streamlit.app)
 - Enter borrower details (loan amount, interest rate, grade, employment length, etc.)
 - The app predicts whether the borrower is **Likely to Default** or **Likely to Pay**, along with a probability score.
 
@@ -130,7 +130,7 @@ joblib
 - Feature engineering based on SHAP insights
 
 ## Author
-Hrishikesh Joshi
+Kunal Jagtap
 
 
 ## Appendix: Adapting Loan Default Prediction to the Indian Financial Sector
